@@ -9,8 +9,8 @@
 ### 👨‍💻 About Me:
 - 💼 I've got a Certificate of Higher Education in Software Development.
 - 👨‍🎓 Currently I'm studying a University Degree in Physics. 
-- 🐍 I love Python and everything related to Data Science. 
-- 📊 Currently I'm learning NumPy.
+- 🐍 I love Python and NumPy. 
+- 📊 Currently I'm learning Data Science.
 ---
 ### 📧 Reach me:
 - **aitorruiz030996@gmail.com**
